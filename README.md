@@ -12,7 +12,6 @@ Hey, I'm **Swaresh**.
 
 I write technical content, run developer communities, and help people build with AI. At **Capx AI**, that means answering questions, hosting learning sessions, talking to developers, and helping run hackathons. We help people build AI apps and run companies with AI agents.
 
-[Portfolio](https://swaresh-portfolio.vercel.app) · [Writing](https://medium.com/@swareshbinaykiya) · [LinkedIn](https://www.linkedin.com/in/swaresh-binaykiya-672a41186/) · [X](https://x.com/IBMbotsan) · [Email](mailto:swareshbinaykiya@gmail.com)
 
 ### What I've been working on
 
